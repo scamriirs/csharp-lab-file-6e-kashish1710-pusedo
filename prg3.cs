@@ -1,4 +1,4 @@
-//
+//Write the program to show the usage of default constructor 
 using System;
 
 using System;
